@@ -6,6 +6,7 @@ public class Testcase2 {
 	{
 		System.out.println("This is testcase2");
 		System.out.println("updated testcase2");
+		System.out.println("new test");
 	}
 
 }
